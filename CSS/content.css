@@ -1,0 +1,38 @@
+
+
+        .content {
+            background-color: rgb(44, 215, 215);
+            font-weight: bold;
+            max-width: 1000px;
+            margin: auto;
+            line-height: 1.5;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            padding: 20px;
+            text-align: left;
+            text-decoration: line-through;
+            text-decoration-line: underline;
+        }
+
+        .content__Box {
+            background-image: url("../fotos/back.JPEG");
+            background-repeat: no-repeat;            
+            resize: both;
+            overflow: auto;
+            font-weight: bold;
+            color: rgb(255, 72, 0);
+            max-width: 1000px;
+            margin: auto;
+            border: 15px solid black;
+            padding: 50px;
+            line-height: 1.5;
+            
+        }
+
+        .content__Dark {
+            background-color: rgb(0, 0, 0);
+            font-weight: bold;
+            max-width: 1000px;
+            margin: auto;
+            line-height: 1.5;
+            font-family: Georgia, 'Times New Roman', Times, serif
+        }

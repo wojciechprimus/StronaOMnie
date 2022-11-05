@@ -1,0 +1,28 @@
+.article{
+    max-width: 1000px;
+    background-color: green;
+    padding: 20px;
+    margin: 20px auto;
+    border: 2px coral;
+
+}
+
+.article__header{
+    color: blue;
+}
+
+.article__text {
+    color: rgb(27, 40, 14);
+}
+
+.article__text2 {
+    color: rgb(27, 40, 14);
+}
+
+.article__opis {
+    color: rgb(138, 25, 144);
+    font-weight: bold;
+    font-size: x-large;
+    padding-top: 0px;
+    margin-top: 0px ;
+}

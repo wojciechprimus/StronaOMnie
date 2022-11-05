@@ -1,0 +1,32 @@
+.table {
+    width: 70%;
+    border-collapse: collapse;
+
+}
+
+.table__Cell {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(160, 126, 5);
+}
+
+.table__Cell--Zmiana {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(160, 126, 5);
+}
+
+.table__Cell--head {
+    border: 1px solid black;
+    background-color: red;
+}
+
+.table__Cell:hover {
+    background-color: rgb(126, 108, 60);
+}
+
+.table__Cell--head:hover {
+    background-color: rgb(151, 11, 11);
+}
